@@ -1,1 +1,9 @@
-# jianghu-jiqiyan
+# 山河照影錄
+
+原創玄幻武俠長篇，於青州一樁玄錢懸案揭開序幕。奕嵐與裴綺微攜手追尋真相，從酒肆風波走進浩瀚江湖。
+
+- 已公開：第 1 至 21 章
+- 規劃長度：1,765 章（後續章節尚未完成）
+- 線上閱讀：https://tges9203.github.io/jianghu-jiqiyan/
+
+本網站以 GitHub Pages 發布，章節正文存於 `chapters/` 目錄。
