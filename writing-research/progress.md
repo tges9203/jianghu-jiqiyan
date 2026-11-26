@@ -144,7 +144,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀205章；下一章從第206章接續。
+- 《大奉打更人》：完整閱讀215章；下一章從第216章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -211,3 +211,16 @@
 第200章後的頁面導覽先到作者推書附頁（https://czbooks.net/n/s6j126/s6j89b88?chapterNumber=209），已讀取但非正文章節，不計入十章；沿附頁可見下一章導覽接續第205章。第205章讀至「本章完」，其可見下一章入口為 https://czbooks.net/n/s6j126/s6j8978f?chapterNumber=211，核實接續第206章。累計完整閱讀至第205章，下一章從第206章接續。未以目錄、摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文、引文或劇情摘要。
 
 - 追加閱讀進度（2026-11-27）：接續完整閱讀第358–364章，共7個連續章節，來源為使用者確認可讀的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。逐章沿閱讀器「下一頁」讀完全部可見分頁，再依「下一章」連讀並核對章號、章名及導覽；七章均完整可見。章節入口：第358章〈統一口徑〉https://www.oop.tw/areada/a32376912a/a1391274a.html；第359章〈我查我自己？〉https://www.oop.tw/areada/a32376912a/a1391275a.html；第360章〈這是二世祖！？〉https://www.oop.tw/areada/a32376912a/a1391276a.html；第361章〈楊大人你怎麼看？〉https://www.oop.tw/areada/a32376912a/a1391277a.html；第362章〈專案組的副組長〉https://www.oop.tw/areada/a32376912a/a1391278a.html；第363章〈關鍵供詞〉https://www.oop.tw/areada/a32376912a/a1391279a.html；第364章〈開弓沒有回頭箭（第九更！）〉https://www.oop.tw/areada/a32376912a/a1391280a.html。第364章的下一章連結核實至第365章〈證據呢？〉（https://www.oop.tw/areada/a32376912a/a1391281a.html）；本次僅核對其標題與導覽，不計為已讀章節。未以目錄或摘要替代正文，未保存原著全文、引文或劇情摘要。
+
+- 本次續讀（2026-11-27）：依 GitHub main 最新進度，接續完整閱讀第206–215章，共10個連續正文章節。來源為使用者指定的小說狂人（czbooks.net）閱讀器：https://czbooks.net/n/s6j126/；沿頁面可見「下一章」逐章閱讀，核對章號與標題並讀至每章「本章完」。逐章入口：
+- 206 https://czbooks.net/n/s6j126/s6j8978f?chapterNumber=211
+- 207 https://czbooks.net/n/s6j126/s6j89c07?chapterNumber=212
+- 208 https://czbooks.net/n/s6j126/s6j8nba3?chapterNumber=213
+- 209 https://czbooks.net/n/s6j126/s6j8n634?chapterNumber=214
+- 210 https://czbooks.net/n/s6j126/s6j8n7od?chapterNumber=215
+- 211 https://czbooks.net/n/s6j126/s6j8nc2h?chapterNumber=216
+- 212 https://czbooks.net/n/s6j126/s6j8gb8f?chapterNumber=217
+- 213 https://czbooks.net/n/s6j126/s6j8go9j?chapterNumber=218
+- 214 https://czbooks.net/n/s6j126/s6j8gipi?chapterNumber=219
+- 215 https://czbooks.net/n/s6j126/s6j8gmf9?chapterNumber=220
+各章正文均核對至「本章完」；第215章的「下一章」導覽已確認為第216章（https://czbooks.net/n/s6j126/s6j8g0ba?chapterNumber=221）。閱讀方式為逐章讀取可見完整正文、核對章名與章末及下一章導覽；未以摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文、引文或劇情摘要。累計完整閱讀至第215章，下一章從第216章接續。
