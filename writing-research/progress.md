@@ -138,7 +138,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀292章（已核實連續範圍：第1–47章、第78–322章；第48–77章尚無已核實紀錄）；最後完整閱讀至第322章，下一章從第323章接續。
-- 《大奉打更人》：完整閱讀165章；下一章從第166章接續。
+- 《大奉打更人》：完整閱讀175章；下一章從第176章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -146,3 +146,17 @@
 
 
 - 本次續讀（2026-11-27）：依 GitHub main 最新進度接續完整閱讀第156–165章，共10個連續正文章節。來源為使用者確認可讀的小說狂人閱讀器：https://czbooks.net/n/s6j126/；沿頁面可見「下一章」逐章閱讀至「本章完」，核對章號、標題、正文結尾與下一章導覽。逐章入口：第156章 https://czbooks.net/n/s6j126/s6j77i41?chapterNumber=158；第157章 https://czbooks.net/n/s6j126/s6j77ic9?chapterNumber=159；第158章 https://czbooks.net/n/s6j126/s6j77icm?chapterNumber=160；第159章 https://czbooks.net/n/s6j126/s6j77i0b?chapterNumber=161；第160章 https://czbooks.net/n/s6j126/s6j77i0a?chapterNumber=162；第161章 https://czbooks.net/n/s6j126/s6jm2gil?chapterNumber=163；第162章 https://czbooks.net/n/s6j126/s6jmbpmn?chapterNumber=164；第163章 https://czbooks.net/n/s6j126/s6jmbmm2?chapterNumber=165；第164章 https://czbooks.net/n/s6j126/s6jmb8o0?chapterNumber=166；第165章 https://czbooks.net/n/s6j126/s6jmjg5d?chapterNumber=167。第165章讀至「本章完」，可見下一章導覽 https://czbooks.net/n/s6j126/s6jmjj5l?chapterNumber=168，核實接續第166章。逐章閱讀可見正文，未以摘要、摘錄或搜尋結果代替，未繞過存取限制，未保存原著全文或劇情摘要；技巧紀錄僅保留通用創作觀察。
+
+
+- 本次續讀（2026-11-27）：依 GitHub main 最新進度接續完整閱讀第166–175章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）。逐章入口：
+- 166 https://czbooks.net/n/s6j126/s6jmjj5l?chapterNumber=168
+- 167 https://czbooks.net/n/s6j126/s6jmjo73?chapterNumber=169
+- 168 https://czbooks.net/n/s6j126/s6jmj1de?chapterNumber=170
+- 169 https://czbooks.net/n/s6j126/s6jmjmph?chapterNumber=171
+- 170 https://czbooks.net/n/s6j126/s6jmjegk?chapterNumber=172
+- 171 https://czbooks.net/n/s6j126/s6jmfb6n?chapterNumber=173
+- 172 https://czbooks.net/n/s6j126/s6jmflea?chapterNumber=174
+- 173 https://czbooks.net/n/s6j126/s6jmfdfl?chapterNumber=175
+- 174 https://czbooks.net/n/s6j126/s6jmf7bo?chapterNumber=176
+- 175 https://czbooks.net/n/s6j126/s6jmfe1d?chapterNumber=177
+依頁面可見章節導覽逐章閱讀完整正文，核對章號與標題，並讀至每章「本章完」；第175章的可見「下一章」入口為 https://czbooks.net/n/s6j126/s6jml2p1?chapterNumber=178，頁面標題核實為第176章。已完整閱讀至第175章，下一章從第176章接續。未以摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文、引文或劇情摘要；技巧紀錄僅保留通用創作分析。
