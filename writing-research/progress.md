@@ -130,5 +130,8 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀292章（已核實連續範圍：第1–47章、第78–322章；第48–77章尚無已核實紀錄）；最後完整閱讀至第322章，下一章從第323章接續。
-- 《大奉打更人》：完整閱讀145章；下一章從第146章接續。
+- 《大奉打更人》：完整閱讀155章；下一章從第156章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
+
+
+- 本次續讀（2026-11-26）：依 GitHub main 的最新進度，接續完整閱讀第146–155章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器：https://czbooks.net/n/s6j126/；沿可見「下一章」逐章閱讀，每章讀至「本章完」，核對標題、章末與下一章導覽。逐章入口：第146章 https://czbooks.net/n/s6j126/s6j77iig?chapterNumber=147；第147章 https://czbooks.net/n/s6j126/s6j77ii7?chapterNumber=148；第148章 https://czbooks.net/n/s6j126/s6j77i72?chapterNumber=149；第149章 https://czbooks.net/n/s6j126/s6j77i7m?chapterNumber=150；第150章 https://czbooks.net/n/s6j126/s6j77imo?chapterNumber=151；第151章 https://czbooks.net/n/s6j126/s6j77im8?chapterNumber=152；第152章 https://czbooks.net/n/s6j126/s6j77i81?chapterNumber=153；第153章 https://czbooks.net/n/s6j126/s6j77i5m?chapterNumber=155；第154章 https://czbooks.net/n/s6j126/s6j77ieb?chapterNumber=156；第155章 https://czbooks.net/n/s6j126/s6j77ie8?chapterNumber=157。章節導覽中另遇一則作者後記頁（https://czbooks.net/n/s6j126/s6j77i52?chapterNumber=154），已讀但未計入十章，也未以其替代正文。第155章正文完整至「本章完」；其可見下一章連結為 https://czbooks.net/n/s6j126/s6j77i41?chapterNumber=158，核實接續第156章。逐章閱讀可見全文，未以摘要或摘錄替代正文，未繞過存取限制，未保存原著全文或劇情摘要；僅記錄通用創作分析。
