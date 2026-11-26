@@ -25,7 +25,7 @@
 - 閱讀方式補充（2026-11-26）：逐段閱讀完整可見正文並逐章核對章名、正文完整性與下一章導覽；特別分析人物互動中的試探、利益交換、職責邊界、信任建立與關係變化。記錄只保留通用創作方法，不保留原著全文、引文或劇情摘要。
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第218–224章，共7個連續章節，來源為使用者確認的 OOP 閱讀平台（https://www.oop.tw/abooka/a32376912a/）。逐章核對章名、全部分頁正文與章末導覽；各章正文完整可見，未保存原著全文。第224章章末導覽直接指向第226章，因此未跳過第225章，後續需先核實連續閱讀入口。累計已完整閱讀至第224章；本次閱讀未揭露劇情，技巧觀察聚焦成長回饋、制度職責與群體互動、群像視角、場景節奏與危機對話。
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第281–287章，共7個連續章節，來源為使用者確認的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391197a.html（281）、https://www.oop.tw/areada/a32376912a/a1391198a.html（282）、https://www.oop.tw/areada/a32376912a/a1391199a.html（283）、https://www.oop.tw/areada/a32376912a/a1391200a.html（284）、https://www.oop.tw/areada/a32376912a/a1391201a.html（285）、https://www.oop.tw/areada/a32376912a/a1391202a.html（286）、https://www.oop.tw/areada/a32376912a/a1391203a.html（287）。依序跟隨閱讀器的下一頁與下一章連結，讀完各章全部可見分頁，核對章名及分頁／下一章導覽；第287章導向第288章。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。- 追加閱讀進度（2026-11-26）：接續完整閱讀第288–294章，共7個連續章節，來源為使用者確認的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。入口依序為：https://www.oop.tw/areada/a32376912a/a1391204a.html（288）、https://www.oop.tw/areada/a32376912a/a1391205a.html（289）、https://www.oop.tw/areada/a32376912a/a1391206a.html（290）、https://www.oop.tw/areada/a32376912a/a1391207a.html（291）、https://www.oop.tw/areada/a32376912a/a1391208a.html（292）、https://www.oop.tw/areada/a32376912a/a1391209a.html（293）、https://www.oop.tw/areada/a32376912a/a1391210a.html（294）。依閱讀器下一頁與下一章連結逐章閱讀全部可見分頁，核對章名與導覽；第294章導向第295章。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。
-- 進度狀態：全書研讀未完成；目前最後完整閱讀章節為第308章，下一章從第309章接續。
+- 進度狀態：全書研讀未完成；目前最後完整閱讀章節為第315章，下一章從第316章接續。
 
 
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第225–231章，共7個連續章節，來源為使用者確認可讀的 OOP 章節目錄及逐章閱讀器。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391134a.html（225）、https://www.oop.tw/areada/a32376912a/a1391135a.html（226）、https://www.oop.tw/areada/a32376912a/a1391137a.html（227）、https://www.oop.tw/areada/a32376912a/a1391138a.html（228）、https://www.oop.tw/areada/a32376912a/a1391139a.html（229）、https://www.oop.tw/areada/a32376912a/a1391141a.html（230）、https://www.oop.tw/areada/a32376912a/a1391142a.html（231）。第225章由目錄核實補讀；逐章閱讀全部分頁正文，核對章名、正文與章末下一章導覽；第231章導向第232章。未以摘要替代正文，未保存原著全文或劇情摘要。
@@ -56,6 +56,8 @@
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第295–301章，共7個連續章節，來源為使用者確認的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391211a.html（295）、https://www.oop.tw/areada/a32376912a/a1391212a.html（296）、https://www.oop.tw/areada/a32376912a/a1391213a.html（297）、https://www.oop.tw/areada/a32376912a/a1391214a.html（298）、https://www.oop.tw/areada/a32376912a/a1391215a.html（299）、https://www.oop.tw/areada/a32376912a/a1391216a.html（300）、https://www.oop.tw/areada/a32376912a/a1391217a.html（301）。依閱讀器下一頁與下一章連結順讀，讀完每章全部可見分頁並核對章名、頁面導覽及下一章連結；第301章導向第302章。未用目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。
 
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第302–308章，共7個連續章節，來源為使用者確認可讀的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391218a.html（302）、https://www.oop.tw/areada/a32376912a/a1391219a.html（303）、https://www.oop.tw/areada/a32376912a/a1391220a.html（304）、https://www.oop.tw/areada/a32376912a/a1391221a.html（305）、https://www.oop.tw/areada/a32376912a/a1391222a.html（306）、https://www.oop.tw/areada/a32376912a/a1391223a.html（307）、https://www.oop.tw/areada/a32376912a/a1391224a.html（308）。依閱讀器的下一頁與下一章連結逐章閱讀全部可見分頁，逐章核對標題、頁面銜接與下一章導覽；第308章導向第309章（https://www.oop.tw/areada/a32376912a/a1391225a.html）。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。
+
+- 追加閱讀進度（2026-11-26）：接續完整閱讀第309–315章，共7個連續章節，來源為使用者確認可讀的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391225a.html（309）、https://www.oop.tw/areada/a32376912a/a1391226a.html（310）、https://www.oop.tw/areada/a32376912a/a1391227a.html（311）、https://www.oop.tw/areada/a32376912a/a1391228a.html（312）、https://www.oop.tw/areada/a32376912a/a1391229a.html（313）、https://www.oop.tw/areada/a32376912a/a1391230a.html（314）、https://www.oop.tw/areada/a32376912a/a1391231a.html（315）。依閱讀器下一頁與下一章連結讀完各章全部可見分頁，核對章名、頁面銜接與下一章導覽；第315章導向第316章（https://www.oop.tw/areada/a32376912a/a1391232a.html）。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。
 
 ## 《大奉打更人》（作者：賣報小郎君）
 
@@ -115,6 +117,6 @@
 
 ## 累計進度
 
-- 《神域囚徒！》：累計完整閱讀278章（已核實連續範圍：第1–47章、第78–308章；第48–77章尚無已核實紀錄）；最後完整閱讀至第308章，下一章從第309章接續。
+- 《神域囚徒！》：累計完整閱讀285章（已核實連續範圍：第1–47章、第78–315章；第48–77章尚無已核實紀錄）；最後完整閱讀至第315章，下一章從第316章接續。
 - 《大奉打更人》：完整閱讀125章；下一章從第126章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
