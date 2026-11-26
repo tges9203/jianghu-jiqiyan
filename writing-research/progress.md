@@ -57,7 +57,7 @@
 - 合法閱讀來源：縱橫中文網作品頁標示「官方正版」，作者頁列為「賣報小郎君_閱文_10033」；作品頁：https://www.zongheng.com/detail/1379190 。閱讀使用該頁連結的官方章節閱讀器。
 - 本批實際閱讀：依序完整閱讀第12–22章。第12章來源：https://read.zongheng.com/chapter/1379190/89312353.html；第13章來源：https://read.zongheng.com/chapter/1379190/89312387.html；第14章來源：https://read.zongheng.com/chapter/1379190/89312367.html；第15章來源：https://read.zongheng.com/chapter/1379190/89312996.html；第16章來源：https://read.zongheng.com/chapter/1379190/89312328.html；第17章來源：https://read.zongheng.com/chapter/1379190/89312579.html；第18章來源：https://read.zongheng.com/chapter/1379190/89312445.html；第19章來源：https://read.zongheng.com/chapter/1379190/89312843.html；第20章來源：https://read.zongheng.com/chapter/1379190/89312166.html；第21章來源：https://read.zongheng.com/chapter/1379190/89312888.html；第22章來源：https://read.zongheng.com/chapter/1379190/89312850.html。第13–22章頁面字數為2,598、2,403、2,315、2,163、2,833、2,554、2,310、2,613、2,922、2,415字；均核對完整正文和下一章導覽。
 - 閱讀方式：逐段閱讀官方閱讀器呈現的完整正文，核對章名、字數資訊與下一章導覽；不以摘要代替原文，不繞過付費或存取限制，也未保存原著全文。
-- 進度狀態：截至2026-11-26，完整閱讀第1–75章，共75章；下次從第76章接續。全書研讀尚未完成。全書研讀尚未完成。全書研讀尚未完成。
+- 進度狀態：截至2026-11-26，完整閱讀第1–85章，共85章；下次從第86章接續。全書研讀尚未完成。
 
 - 本次續讀（2026-11-25）：依序完整閱讀第23章，官方來源：https://read.zongheng.com/chapter/1379190/89312436.html；閱讀器頁面顯示2,643字，核對完整正文及第24章下一章導覽。閱讀方式仍為逐段閱讀官方閱讀器，不以摘要替代，不繞過付費或存取限制，未保存原著全文。
 
@@ -98,8 +98,10 @@
 
 - 本次續讀（2026-11-26）：承接第65章，依序完整閱讀第66–75章，共10個連續章節。來源為使用者確認可讀的小說狂人（czbooks.net）章節閱讀器，從第65章的「下一章」進入第66章，依頁面導覽逐章讀至第75章；每章均讀至「本章完」，核對章名、章末與下一章導覽。章節來源：第66章 https://czbooks.net/n/s6j126/s6j771ab?chapterNumber=65；第67章 https://czbooks.net/n/s6j126/s6j771a8?chapterNumber=66；第68章 https://czbooks.net/n/s6j126/s6j77k9j?chapterNumber=67；第69章 https://czbooks.net/n/s6j126/s6j77k95?chapterNumber=68；第70章 https://czbooks.net/n/s6j126/s6j77kn9?chapterNumber=69；第71章 https://czbooks.net/n/s6j126/s6j77knh?chapterNumber=70；第72章 https://czbooks.net/n/s6j126/s6j77kne?chapterNumber=71；第73章 https://czbooks.net/n/s6j126/s6j77kgn?chapterNumber=72；第74章 https://czbooks.net/n/s6j126/s6j77kgo?chapterNumber=73；第75章 https://czbooks.net/n/s6j126/s6j77kg8?chapterNumber=74。未以摘要或摘錄代替正文，未保存原著全文；研究紀錄只保留不含劇情摘要的通用技巧分析。
 
+
+- 本次續讀（2026-11-26）：承接第75章，依序完整閱讀第76–85章，共10個連續章節。來源為使用者確認可閱讀的小說狂人（czbooks.net）章節閱讀器，從第75章頁面依「下一章」逐章前進；每章均讀至「本章完」，核對章名、正文結尾及章末導覽。逐章來源：第76章 https://czbooks.net/n/s6j126/s6j77k2j?chapterNumber=75；第77章 https://czbooks.net/n/s6j126/s6j77k21?chapterNumber=76；第78章 https://czbooks.net/n/s6j126/s6j77k2c?chapterNumber=77；第79章 https://czbooks.net/n/s6j126/s6j77kbh?chapterNumber=78；第80章 https://czbooks.net/n/s6j126/s6j77kbe?chapterNumber=79；第81章 https://czbooks.net/n/s6j126/s6j77kjn?chapterNumber=80；第82章 https://czbooks.net/n/s6j126/s6j77kjo?chapterNumber=81；第83章 https://czbooks.net/n/s6j126/s6j77kji?chapterNumber=82；第84章 https://czbooks.net/n/s6j126/s6j77kj4?chapterNumber=83；第85章 https://czbooks.net/n/s6j126/s6j77kfj?chapterNumber=84。以瀏覽器逐章閱讀可見完整正文，未以摘要或摘錄代替，未繞過付費或存取限制，未保存原著全文；僅將非劇情式通用創作觀察記入技巧檔。
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀236章（已核實連續範圍：第1–47章、第78–266章；第48–77章尚無已核實紀錄）；最後完整閱讀至第266章，下一章從第267章接續。
-- 《大奉打更人》：完整閱讀75章；下一章從第76章接續。
+- 《大奉打更人》：完整閱讀85章；下一章從第86章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
