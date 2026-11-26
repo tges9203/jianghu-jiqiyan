@@ -58,7 +58,7 @@
 - 合法閱讀來源：縱橫中文網作品頁標示「官方正版」，作者頁列為「賣報小郎君_閱文_10033」；作品頁：https://www.zongheng.com/detail/1379190 。閱讀使用該頁連結的官方章節閱讀器。
 - 本批實際閱讀：依序完整閱讀第12–22章。第12章來源：https://read.zongheng.com/chapter/1379190/89312353.html；第13章來源：https://read.zongheng.com/chapter/1379190/89312387.html；第14章來源：https://read.zongheng.com/chapter/1379190/89312367.html；第15章來源：https://read.zongheng.com/chapter/1379190/89312996.html；第16章來源：https://read.zongheng.com/chapter/1379190/89312328.html；第17章來源：https://read.zongheng.com/chapter/1379190/89312579.html；第18章來源：https://read.zongheng.com/chapter/1379190/89312445.html；第19章來源：https://read.zongheng.com/chapter/1379190/89312843.html；第20章來源：https://read.zongheng.com/chapter/1379190/89312166.html；第21章來源：https://read.zongheng.com/chapter/1379190/89312888.html；第22章來源：https://read.zongheng.com/chapter/1379190/89312850.html。第13–22章頁面字數為2,598、2,403、2,315、2,163、2,833、2,554、2,310、2,613、2,922、2,415字；均核對完整正文和下一章導覽。
 - 閱讀方式：逐段閱讀官方閱讀器呈現的完整正文，核對章名、字數資訊與下一章導覽；不以摘要代替原文，不繞過付費或存取限制，也未保存原著全文。
-- 進度狀態：截至2026-11-26，完整閱讀第1–95章，共95章；下次從第96章接續。全書研讀尚未完成。
+- 進度狀態：截至2026-11-26，完整閱讀第1–105章，共105章；下次從第106章接續。全書研讀尚未完成。
 
 - 本次續讀（2026-11-25）：依序完整閱讀第23章，官方來源：https://read.zongheng.com/chapter/1379190/89312436.html；閱讀器頁面顯示2,643字，核對完整正文及第24章下一章導覽。閱讀方式仍為逐段閱讀官方閱讀器，不以摘要替代，不繞過付費或存取限制，未保存原著全文。
 
@@ -103,8 +103,10 @@
 - 本次續讀（2026-11-26）：承接第75章，依序完整閱讀第76–85章，共10個連續章節。來源為使用者確認可閱讀的小說狂人（czbooks.net）章節閱讀器，從第75章頁面依「下一章」逐章前進；每章均讀至「本章完」，核對章名、正文結尾及章末導覽。逐章來源：第76章 https://czbooks.net/n/s6j126/s6j77k2j?chapterNumber=75；第77章 https://czbooks.net/n/s6j126/s6j77k21?chapterNumber=76；第78章 https://czbooks.net/n/s6j126/s6j77k2c?chapterNumber=77；第79章 https://czbooks.net/n/s6j126/s6j77kbh?chapterNumber=78；第80章 https://czbooks.net/n/s6j126/s6j77kbe?chapterNumber=79；第81章 https://czbooks.net/n/s6j126/s6j77kjn?chapterNumber=80；第82章 https://czbooks.net/n/s6j126/s6j77kjo?chapterNumber=81；第83章 https://czbooks.net/n/s6j126/s6j77kji?chapterNumber=82；第84章 https://czbooks.net/n/s6j126/s6j77kj4?chapterNumber=83；第85章 https://czbooks.net/n/s6j126/s6j77kfj?chapterNumber=84。以瀏覽器逐章閱讀可見完整正文，未以摘要或摘錄代替，未繞過付費或存取限制，未保存原著全文；僅將非劇情式通用創作觀察記入技巧檔。
 
 - 本次續讀（2026-11-26）：承接第85章，依序完整閱讀第86–95章，共10個連續章節。來源為使用者確認可閱讀的小說狂人（czbooks.net）章節閱讀器，從第85章依「下一章」導覽逐章讀至第95章；各章均讀至「本章完」，核對章號、正文結尾及下一章導覽。逐章來源：第86章 https://czbooks.net/n/s6j126/s6j77kf1?chapterNumber=85；第87章 https://czbooks.net/n/s6j126/s6j77kf5?chapterNumber=86；第88章 https://czbooks.net/n/s6j126/s6j77kl2?chapterNumber=87；第89章 https://czbooks.net/n/s6j126/s6j77klh?chapterNumber=88；第90章 https://czbooks.net/n/s6j126/s6j77kle?chapterNumber=89；第91章 https://czbooks.net/n/s6j126/s6j77kpl?chapterNumber=90；第92章 https://czbooks.net/n/s6j126/s6j77kp8?chapterNumber=91；第93章 https://czbooks.net/n/s6j126/s6j77k6g?chapterNumber=92；第94章 https://czbooks.net/n/s6j126/s6j77k65?chapterNumber=93；第95章 https://czbooks.net/n/s6j126/s6j77kof?chapterNumber=94。逐章閱讀可見完整正文，未以摘要或摘錄代替，未繞過付費或存取限制，未保存原著全文；分析只記錄通用創作技巧，不含劇情摘要。
+- 本次續讀（2026-11-26）：承接第95章，依序完整閱讀第96–105章，共10個連續章節。來源為使用者確認可讀的小說狂人（czbooks.net）章節閱讀器：https://czbooks.net/n/s6j126/；逐章依可見「下一章」導覽閱讀，頁面中途出現一則作者公告頁，未計入正文章數，隨後沿導覽抵達第104章，未以公告替代章節。逐章入口：第96章 https://czbooks.net/n/s6j126/s6j77kom?chapterNumber=95；第97章 https://czbooks.net/n/s6j126/s6j77k3l?chapterNumber=96；第98章 https://czbooks.net/n/s6j126/s6j77k3i?chapterNumber=97；第99章 https://czbooks.net/n/s6j126/s6j77khj?chapterNumber=98；第100章 https://czbooks.net/n/s6j126/s6j77kh5?chapterNumber=99；第101章 https://czbooks.net/n/s6j126/s6j77kd6?chapterNumber=100；第102章 https://czbooks.net/n/s6j126/s6j77k1b?chapterNumber=101；第103章 https://czbooks.net/n/s6j126/s6j77k1i?chapterNumber=102；第104章 https://czbooks.net/n/s6j126/s6j77kk1?chapterNumber=104；第105章 https://czbooks.net/n/s6j126/s6j77ki2?chapterNumber=105。逐章讀完可見正文至「本章完」，核對章號、頁面結尾與下一章連結；第105章下一章導覽已確認第106章。未以摘要或摘錄替代正文，未繞過存取限制，未保存原著全文；只記錄通用創作觀察，不記錄劇情摘要。
+
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀236章（已核實連續範圍：第1–47章、第78–266章；第48–77章尚無已核實紀錄）；最後完整閱讀至第266章，下一章從第267章接續。
-- 《大奉打更人》：完整閱讀95章；下一章從第96章接續。
+- 《大奉打更人》：完整閱讀105章；下一章從第106章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
