@@ -144,7 +144,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀320章（已核實連續範圍：第1–47章、第78–357章；第48–77章尚無已核實紀錄）；最後完整閱讀至第357章，下一章從第358章接續。
-- 《大奉打更人》：完整閱讀185章；下一章從第186章接續。
+- 《大奉打更人》：完整閱讀195章；下一章從第196章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -180,3 +180,18 @@
 - 184 https://czbooks.net/n/s6j126/s6jm6pm0?chapterNumber=187
 - 185 https://czbooks.net/n/s6j126/s6jm6p8n?chapterNumber=188
 第182章與第183章之間的導覽另顯示一則作者更新通知頁（https://czbooks.net/n/s6j126/s6jmpj7l?chapterNumber=185），已讀取但非正文章節，不計入十章。第185章的下一章導覽為 https://czbooks.net/n/s6j126/s6jm6p8b?chapterNumber=189，頁面標題核實接續第186章。累計完整閱讀至第185章，下一章從第186章接續。未以摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文、引文或劇情摘要。
+
+
+- 本次續讀（2026-11-27）：依 GitHub main 最新進度接續完整閱讀第186–195章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器：https://czbooks.net/n/s6j126/；逐章依頁面可見「下一章」導覽閱讀，核對章號與標題，讀完整章可見正文至「本章完」，並確認最後一章的下一章導覽。
+- 逐章入口：
+- 186 https://czbooks.net/n/s6j126/s6jm6p8l?chapterNumber=190
+- 187 https://czbooks.net/n/s6j126/s6jm6p8o?chapterNumber=191
+- 188 https://czbooks.net/n/s6j126/s6jm63ol?chapterNumber=192
+- 189 https://czbooks.net/n/s6j126/s6jm6133?chapterNumber=193
+- 190 https://czbooks.net/n/s6j126/s6jmob38?chapterNumber=194
+- 191 https://czbooks.net/n/s6j126/s6jmo6h2?chapterNumber=195
+- 192 https://czbooks.net/n/s6j126/s6jmokpp?chapterNumber=196
+- 193 https://czbooks.net/n/s6j126/s6jmoed4?chapterNumber=197
+- 194 https://czbooks.net/n/s6j126/s6jm3270?chapterNumber=198
+- 195 https://czbooks.net/n/s6j126/s6jm1dg7?chapterNumber=199
+第185章下一章導覽先到作者更新通知頁（https://czbooks.net/n/s6j126/s6jm6p8b?chapterNumber=189），此頁讀取但屬作者附頁、不計入正文章數；依其可見「下一章」進入第186章。第195章讀至「本章完」，可見下一章導覽為 https://czbooks.net/n/s6j126/s6jmca75?chapterNumber=200，標題核實為第196章。累計完整閱讀至第195章，下一章從第196章接續。未用目錄、摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文、引文或劇情摘要。
