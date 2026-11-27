@@ -144,7 +144,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀276章；下一章從第277章接續。
+- 《大奉打更人》：完整閱讀286章；下一章從第287章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -383,3 +383,5 @@
 - 447〈武盟〉https://www.oop.tw/areada/a32376912a/a1391365a.html
 - 448〈輻射源？〉https://www.oop.tw/areada/a32376912a/a1391367a.html
 本批各章均讀完所有可見分頁；頁面偶有文字方向錯亂，重載一次後確認全文可讀。第448章分頁末端的「下一章」連結已核實指向第449章〈我不奉陪了〉（https://www.oop.tw/areada/a32376912a/a1391368a.html），只確認標題與入口、不計入本批閱讀。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要；研究紀錄只保留章號、入口與可轉化的創作觀察。累計完整閱讀至第448章（第1–47章、第78–448章），第48–77章仍未核實，下一章從第449章接續。
+
+- 本次續讀（2026-11-27）：承接 main 最新核實進度，依序完整閱讀第277–286章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）；依頁面可見「下一章」導覽逐章閱讀，核對章號及正文，讀至每章「本章完」，並確認第286章後導覽指向第287章（https://czbooks.net/n/s6j126/s6je0c1c?chapterNumber=296；僅確認入口與章號，不計入本批）。逐章入口：第277章 https://czbooks.net/n/s6j126/s6jeeki2?chapterNumber=285；第278章 https://czbooks.net/n/s6j126/s6jeeea2?chapterNumber=286；第279章 https://czbooks.net/n/s6j126/s6je42ke?chapterNumber=287；第280章 https://czbooks.net/n/s6j126/s6je461c?chapterNumber=288；第281章 https://czbooks.net/n/s6j126/s6jecj89?chapterNumber=289；第282章 https://czbooks.net/n/s6j126/s6jec321?chapterNumber=290；第283章 https://czbooks.net/n/s6j126/s6jecamh?chapterNumber=292；第284章 https://czbooks.net/n/s6j126/s6je09g8?chapterNumber=293；第285章 https://czbooks.net/n/s6j126/s6je0638?chapterNumber=294；第286章 https://czbooks.net/n/s6j126/s6je0k3i?chapterNumber=295。第282章後有一則作者推書附頁，沿可見「下一章」導覽續讀正文章節，未將附頁計入章數。閱讀方式：直接閱讀逐章完整可見正文，核對章號、章末與下一章連接；未以目錄、摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文、引文或劇情摘要。僅保留通用創作方法。累計完整閱讀至第286章，下一章從第287章接續。
