@@ -159,7 +159,8 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀345章；下一章從第346章接續。
+- 本次續讀（2026-11-28）：由第346章接續；實際完整閱讀第346–353章，共8個連續正文章節。操作時多前進至第353章且已讀完，故依實際完整閱讀範圍記錄。來源為使用者指定可讀的小說狂人閱讀器（https://czbooks.net/n/s6j126/），依頁面可見「下一章」導覽逐章閱讀全部正文，逐章核對章號、章末「本章完」及下一章連結。章節入口：346 https://czbooks.net/n/s6j126/s6fn4m66?chapterNumber=357；347 https://czbooks.net/n/s6j126/s6fnc9g9?chapterNumber=358；348 https://czbooks.net/n/s6j126/s6fnc67e?chapterNumber=359；349 https://czbooks.net/n/s6j126/s6fn02df?chapterNumber=360；350 https://czbooks.net/n/s6j126/s6fn02d6?chapterNumber=361；351 https://czbooks.net/n/s6j126/s6fn01e9?chapterNumber=362；352 https://czbooks.net/n/s6j126/s6fn0cg7?chapterNumber=363；353 https://czbooks.net/n/s6j126/s6fnapig?chapterNumber=364。第353章頁尾「下一章」連結核實導向第354章：https://czbooks.net/n/s6j126/s6fna7d1?chapterNumber=365（僅核實接續入口，不計入本次閱讀）。未以摘要、摘錄或搜尋結果代替正文，未繞過存取限制，未保存原著全文或劇情摘要；僅保留通用創作技巧。
+- 《大奉打更人》：完整閱讀353章；下一章從第354章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
