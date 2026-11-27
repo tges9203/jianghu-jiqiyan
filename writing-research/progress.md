@@ -25,7 +25,7 @@
 - 閱讀方式補充（2026-11-26）：逐段閱讀完整可見正文並逐章核對章名、正文完整性與下一章導覽；特別分析人物互動中的試探、利益交換、職責邊界、信任建立與關係變化。記錄只保留通用創作方法，不保留原著全文、引文或劇情摘要。
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第218–224章，共7個連續章節，來源為使用者確認的 OOP 閱讀平台（https://www.oop.tw/abooka/a32376912a/）。逐章核對章名、全部分頁正文與章末導覽；各章正文完整可見，未保存原著全文。第224章章末導覽直接指向第226章，因此未跳過第225章，後續需先核實連續閱讀入口。累計已完整閱讀至第224章；本次閱讀未揭露劇情，技巧觀察聚焦成長回饋、制度職責與群體互動、群像視角、場景節奏與危機對話。
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第281–287章，共7個連續章節，來源為使用者確認的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391197a.html（281）、https://www.oop.tw/areada/a32376912a/a1391198a.html（282）、https://www.oop.tw/areada/a32376912a/a1391199a.html（283）、https://www.oop.tw/areada/a32376912a/a1391200a.html（284）、https://www.oop.tw/areada/a32376912a/a1391201a.html（285）、https://www.oop.tw/areada/a32376912a/a1391202a.html（286）、https://www.oop.tw/areada/a32376912a/a1391203a.html（287）。依序跟隨閱讀器的下一頁與下一章連結，讀完各章全部可見分頁，核對章名及分頁／下一章導覽；第287章導向第288章。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。- 追加閱讀進度（2026-11-26）：接續完整閱讀第288–294章，共7個連續章節，來源為使用者確認的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。入口依序為：https://www.oop.tw/areada/a32376912a/a1391204a.html（288）、https://www.oop.tw/areada/a32376912a/a1391205a.html（289）、https://www.oop.tw/areada/a32376912a/a1391206a.html（290）、https://www.oop.tw/areada/a32376912a/a1391207a.html（291）、https://www.oop.tw/areada/a32376912a/a1391208a.html（292）、https://www.oop.tw/areada/a32376912a/a1391209a.html（293）、https://www.oop.tw/areada/a32376912a/a1391210a.html（294）。依閱讀器下一頁與下一章連結逐章閱讀全部可見分頁，核對章名與導覽；第294章導向第295章。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。
-- 進度狀態：全書研讀未完成；已完整核實至第441章（第1–47章、第78–441章）；第48–77章仍未核實，下一章從第442章接續。
+- 進度狀態：全書研讀未完成；已完整核實至第448章（第1–47章、第78–448章）；第48–77章仍未核實，下一章從第449章接續。
 
 
 - 追加閱讀進度（2026-11-26）：接續完整閱讀第225–231章，共7個連續章節，來源為使用者確認可讀的 OOP 章節目錄及逐章閱讀器。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391134a.html（225）、https://www.oop.tw/areada/a32376912a/a1391135a.html（226）、https://www.oop.tw/areada/a32376912a/a1391137a.html（227）、https://www.oop.tw/areada/a32376912a/a1391138a.html（228）、https://www.oop.tw/areada/a32376912a/a1391139a.html（229）、https://www.oop.tw/areada/a32376912a/a1391141a.html（230）、https://www.oop.tw/areada/a32376912a/a1391142a.html（231）。第225章由目錄核實補讀；逐章閱讀全部分頁正文，核對章名、正文與章末下一章導覽；第231章導向第232章。未以摘要替代正文，未保存原著全文或劇情摘要。
@@ -373,3 +373,13 @@
 閱讀方式：沿 OOP 閱讀器「下一頁」讀完每章全部可見頁面，再依「下一章」連續閱讀；逐章核對標題及分頁銜接。第441章的下一章連結已核實為第442章〈【中級火蛟島副本臨時上線】〉（https://www.oop.tw/areada/a32376912a/a1391358a.html），僅確認標題與連結、不計入本批。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。累計完整閱讀至第441章（第1–47章、第78–441章），第48–77章仍未核實，下一章從第442章接續。
 
 - 本次續讀（2026-11-27）：原定接續第265章閱讀十章第266–275章；但沿可見章末導覽核對連續入口時，實際也完整讀取了第276章，故本次可核實的實際全文閱讀範圍為第266–276章（11章），不將其記作十章完成。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）；依可見「下一章」導覽逐章讀至各章「本章完」，核對章號、正文結尾與導覽。第266–275章入口：第266章 https://czbooks.net/n/s6j126/s6jem8eo?chapterNumber=273；第267章 https://czbooks.net/n/s6j126/s6jeme1i?chapterNumber=274；第268章 https://czbooks.net/n/s6j126/s6je89bd?chapterNumber=275；第269章 https://czbooks.net/n/s6j126/s6je86n8?chapterNumber=276；第270章 https://czbooks.net/n/s6j126/s6je81d7?chapterNumber=277；第271章 https://czbooks.net/n/s6j126/s6je80j5?chapterNumber=278；第272章 https://czbooks.net/n/s6j126/s6je5plf?chapterNumber=279；第273章 https://czbooks.net/n/s6j126/s6je5dgj?chapterNumber=280；第274章 https://czbooks.net/n/s6j126/s6je5mfn?chapterNumber=281；第275章 https://czbooks.net/n/s6j126/s6jeeng6?chapterNumber=282。第275章後先遇到一則作者附頁，未計入正文章數，依可見導覽續行；第276章完整正文入口：https://czbooks.net/n/s6j126/s6jeenc6?chapterNumber=283。第276章後的章末導覽已核實指向第277章（https://czbooks.net/n/s6j126/s6jeeki2?chapterNumber=285）；僅記錄接續入口。閱讀方式為逐章閱讀完整可見正文並核對章末及下一章導覽，未以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文、引文或劇情摘要；僅記錄通用創作分析。累計完整閱讀至第276章，下一章從第277章接續。
+
+- 追加閱讀進度（2026-11-27）：承接 main 最新已核實進度，依使用者確認可讀的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）逐頁完整閱讀第442–448章，共七個連續章節。每章依閱讀器「下一頁」讀完全部可見頁面，再沿「下一章」前進；逐章核對章號、標題及分頁銜接。逐章入口：
+- 442〈【中級火蛟島副本臨時上線】〉https://www.oop.tw/areada/a32376912a/a1391358a.html
+- 443〈不同大區的玩家〉https://www.oop.tw/areada/a32376912a/a1391360a.html
+- 444〈副本開啟，三個身份〉https://www.oop.tw/areada/a32376912a/a1391361a.html
+- 445〈我最近有些手癢〉https://www.oop.tw/areada/a32376912a/a1391362a.html
+- 446〈副本聯動？〉https://www.oop.tw/areada/a32376912a/a1391364a.html
+- 447〈武盟〉https://www.oop.tw/areada/a32376912a/a1391365a.html
+- 448〈輻射源？〉https://www.oop.tw/areada/a32376912a/a1391367a.html
+本批各章均讀完所有可見分頁；頁面偶有文字方向錯亂，重載一次後確認全文可讀。第448章分頁末端的「下一章」連結已核實指向第449章〈我不奉陪了〉（https://www.oop.tw/areada/a32376912a/a1391368a.html），只確認標題與入口、不計入本批閱讀。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要；研究紀錄只保留章號、入口與可轉化的創作觀察。累計完整閱讀至第448章（第1–47章、第78–448章），第48–77章仍未核實，下一章從第449章接續。
