@@ -144,7 +144,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀245章；下一章從第246章接續。
+- 《大奉打更人》：完整閱讀255章；下一章從第256章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -263,6 +263,8 @@
 - 244 https://czbooks.net/n/s6j126/s6j5ibh6?chapterNumber=251
 - 245 https://czbooks.net/n/s6j126/s6j5ih6i?chapterNumber=252
 第236–245章均讀至可見「本章完」；第245章的下一章導覽已核實為第246章（https://czbooks.net/n/s6j126/s6j5im9o?chapterNumber=253），並以頁面標題確認章號，僅核對入口、不計入本批閱讀。未以摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文、引文或劇情摘要；本批只記錄通用創作技巧。累計完整閱讀至第245章，下一章從第246章接續。
+
+- 本次續讀（2026-11-27）：承接第245章，依序完整閱讀第246–255章，共10個連續正文章節。來源為使用者確認可讀的小說狂人閱讀器（https://czbooks.net/n/s6j126/），依頁面可見「下一章」逐章閱讀，每章均讀至「本章完」，核對章號、頁面結尾與下一章導覽。逐章入口：246 https://czbooks.net/n/s6j126/s6j5im9o?chapterNumber=253；247 https://czbooks.net/n/s6j126/s6j57n98?chapterNumber=254；248 https://czbooks.net/n/s6j126/s6j57fpo?chapterNumber=255；249 https://czbooks.net/n/s6j126/s6j57afl?chapterNumber=256；250 https://czbooks.net/n/s6j126/s6j5m9e2?chapterNumber=257；251 https://czbooks.net/n/s6j126/s6j5mfcp?chapterNumber=258；252 https://czbooks.net/n/s6j126/s6j5mpm4?chapterNumber=259；253 https://czbooks.net/n/s6j126/s6j5mh7c?chapterNumber=260；254 https://czbooks.net/n/s6j126/s6jenom7?chapterNumber=261；255 https://czbooks.net/n/s6j126/s6je1hop?chapterNumber=262。第255章的下一章導覽已核實為第256章（https://czbooks.net/n/s6j126/s6jek91n?chapterNumber=263），只確認入口、不計入本批閱讀。閱讀方式為直接閱讀完整可見正文，不以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文、引文或劇情摘要；僅記錄通用創作分析。累計完整閱讀至第255章，下一章從第256章接續。
 
 - 追加閱讀進度（2026-11-27）：依 main 最新已核實進度接續完整閱讀第365–371章，共7個連續章節，來源為使用者確認可讀的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。逐章沿閱讀器「下一頁」讀完全部可見分頁，再依「下一章」連讀，核對章號、章名與完整分頁；第371章的下一章連結已核實指向第372章〈本官這次立下頭功〉（https://www.oop.tw/areada/a32376912a/a1391288a.html），只核對其入口標題與連結，不計入本批閱讀。
 - 逐章入口：
