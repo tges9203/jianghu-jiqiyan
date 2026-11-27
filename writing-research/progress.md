@@ -144,7 +144,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀255章；下一章從第256章接續。
+- 《大奉打更人》：完整閱讀265章；下一章從第266章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -358,3 +358,5 @@
 - 追加閱讀進度（2026-11-27）：接續完整閱讀第421–427章，共7個連續章節，來源為使用者確認授權的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。依閱讀器「下一頁」及「下一章」連結逐頁順讀，讀完各章全部可見頁面，核對章名、分頁銜接及下一章導覽。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391337a.html（421，第421章 對不起，是我衝動了）、https://www.oop.tw/areada/a32376912a/a1391338a.html（422，第422章 你應該沒吃過這種丹藥）、https://www.oop.tw/areada/a32376912a/a1391339a.html（423，第423章 幹壞事的本領）、https://www.oop.tw/areada/a32376912a/a1391340a.html（424，第424章 連升八級！）、https://www.oop.tw/areada/a32376912a/a1391341a.html（425，第425章 無所吊謂）、https://www.oop.tw/areada/a32376912a/a1391342a.html（426，第426章 平戎王）、https://www.oop.tw/areada/a32376912a/a1391343a.html（427，第427章 麒麟玄參丹）。第427章的下一章連結已核實為第428章「金剛明王功，登堂入室！」（https://www.oop.tw/areada/a32376912a/a1391344a.html）；只確認入口與章名，不計入已讀進度。未以目錄或摘要替代正文，未保存原著全文、引文或劇情摘要。
 
 - 追加閱讀進度（2026-11-27）：接續完整閱讀第428–434章，共7個連續章節，來源為使用者確認授權的 OOP 閱讀器（https://www.oop.tw/abooka/a32376912a/）。依閱讀器「下一頁」及「下一章」連結逐頁順讀，讀完各章全部可見頁面，核對章名、分頁銜接與下一章導覽。章節入口依序為：https://www.oop.tw/areada/a32376912a/a1391344a.html（428，第428章 金剛明王功，登堂入室！）、https://www.oop.tw/areada/a32376912a/a1391345a.html（429，第429章 登船，目標火蛟島！）、https://www.oop.tw/areada/a32376912a/a1391346a.html（430，第430章 跟你說這些你也不懂）、https://www.oop.tw/areada/a32376912a/a1391347a.html（431，第431章 楊神捕，可還記得貧僧？）、https://www.oop.tw/areada/a32376912a/a1391348a.html（432，第432章 其實本官與佛有緣）、https://www.oop.tw/areada/a32376912a/a1391349a.html（433，第433章 赤煉火蛟宗）、https://www.oop.tw/areada/a32376912a/a1391350a.html（434，第434章 超人啊？）。第434章下一章連結已核實為第435章「到底誰是苦主！」（https://www.oop.tw/areada/a32376912a/a1391351a.html）；只核對入口與標題，未計入已讀進度。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。
+
+- 本次續讀（2026-11-27）：承接第255章，依序完整閱讀第256–265章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）；沿頁面可見「下一章」逐章閱讀，每章均讀至「本章完」，核對章號、頁面結尾與下一章導覽。逐章入口：第256章 https://czbooks.net/n/s6j126/s6jek91n?chapterNumber=263；第257章 https://czbooks.net/n/s6j126/s6jek6d2?chapterNumber=264；第258章 https://czbooks.net/n/s6j126/s6jek47k?chapterNumber=265；第259章 https://czbooks.net/n/s6j126/s6jeii74?chapterNumber=266；第260章 https://czbooks.net/n/s6j126/s6jeiae7?chapterNumber=267；第261章 https://czbooks.net/n/s6j126/s6je7jbe?chapterNumber=268；第262章 https://czbooks.net/n/s6j126/s6je7186?chapterNumber=269；第263章 https://czbooks.net/n/s6j126/s6jem9om?chapterNumber=270；第264章 https://czbooks.net/n/s6j126/s6jemjd4?chapterNumber=271；第265章 https://czbooks.net/n/s6j126/s6jem333?chapterNumber=272。第265章可見「下一章」導覽已核實指向第266章：https://czbooks.net/n/s6j126/s6jem8eo?chapterNumber=273；只確認入口與章名、不計入本批閱讀。閱讀方式為直接閱讀完整可見正文並沿章末導覽連讀，未以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文、引文或劇情摘要；研究紀錄僅保留通用創作分析。累計完整閱讀至第265章，下一章從第266章接續。
