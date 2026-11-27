@@ -84,7 +84,7 @@
 - 合法閱讀來源：縱橫中文網作品頁標示「官方正版」，作者頁列為「賣報小郎君_閱文_10033」；作品頁：https://www.zongheng.com/detail/1379190 。閱讀使用該頁連結的官方章節閱讀器。
 - 本批實際閱讀：依序完整閱讀第12–22章。第12章來源：https://read.zongheng.com/chapter/1379190/89312353.html；第13章來源：https://read.zongheng.com/chapter/1379190/89312387.html；第14章來源：https://read.zongheng.com/chapter/1379190/89312367.html；第15章來源：https://read.zongheng.com/chapter/1379190/89312996.html；第16章來源：https://read.zongheng.com/chapter/1379190/89312328.html；第17章來源：https://read.zongheng.com/chapter/1379190/89312579.html；第18章來源：https://read.zongheng.com/chapter/1379190/89312445.html；第19章來源：https://read.zongheng.com/chapter/1379190/89312843.html；第20章來源：https://read.zongheng.com/chapter/1379190/89312166.html；第21章來源：https://read.zongheng.com/chapter/1379190/89312888.html；第22章來源：https://read.zongheng.com/chapter/1379190/89312850.html。第13–22章頁面字數為2,598、2,403、2,315、2,163、2,833、2,554、2,310、2,613、2,922、2,415字；均核對完整正文和下一章導覽。
 - 閱讀方式：逐段閱讀官方閱讀器呈現的完整正文，核對章名、字數資訊與下一章導覽；不以摘要代替原文，不繞過付費或存取限制，也未保存原著全文。
-- 進度狀態：截至2026-11-28，完整閱讀第1–317章，共317章；下次從第318章接續。全書研讀尚未完成。
+- 進度狀態：截至2026-11-28，完整閱讀第1–324章，共324章；下次從第325章接續。全書研讀尚未完成。
 
 - 本次續讀（2026-11-25）：依序完整閱讀第23章，官方來源：https://read.zongheng.com/chapter/1379190/89312436.html；閱讀器頁面顯示2,643字，核對完整正文及第24章下一章導覽。閱讀方式仍為逐段閱讀官方閱讀器，不以摘要替代，不繞過付費或存取限制，未保存原著全文。
 
@@ -150,10 +150,12 @@
 
 - 本次續讀（2026-11-28）：依 GitHub main 最新進度從第311章接續，完整閱讀第311–317章，共7個連續正文章節。來源為使用者確認可讀的小說狂人閱讀器（https://czbooks.net/n/s6j126/），沿頁面可見「下一章」導覽逐篇閱讀，核對章號並讀至完整可見章末「本章完」，逐篇確認頁面完成及下一章連結。逐章來源：第311章 https://czbooks.net/n/s6j126/s6jal9df?chapterNumber=322；第312章 https://czbooks.net/n/s6j126/s6jal6nk?chapterNumber=323；第313章 https://czbooks.net/n/s6j126/s6jalhae?chapterNumber=324；第314章 https://czbooks.net/n/s6j126/s6jap9pj?chapterNumber=325；第315章 https://czbooks.net/n/s6j126/s6jap6l8?chapterNumber=326；第316章 https://czbooks.net/n/s6j126/s6jap83n?chapterNumber=327；第317章 https://czbooks.net/n/s6j126/s6ja6f3e?chapterNumber=328。第317章頁面可見的下一章連結核實為第318章：https://czbooks.net/n/s6j126/s6ja61n9?chapterNumber=329（僅核實入口及導覽，未計入本批）。未以摘要、摘錄或搜尋結果替代正文，未繞過存取限制，未保存原著全文或劇情摘要。
 
+- 本次續讀（2026-11-28）：依 main 最新進度接續完整閱讀第318–324章，共7個連續正文章節。來源為使用者確認可讀的小說狂人閱讀器（https://czbooks.net/n/s6j126/），沿頁面可見「下一章」導覽逐章閱讀；逐篇核對章號、讀至完整可見章末「本章完」、確認頁面完成與下一章連結。逐章來源：第318章 https://czbooks.net/n/s6j126/s6ja61n9?chapterNumber=329；第319章 https://czbooks.net/n/s6j126/s6ja6ag5?chapterNumber=330；第320章 https://czbooks.net/n/s6j126/s6f9jo68?chapterNumber=331；第321章 https://czbooks.net/n/s6j126/s6f90957?chapterNumber=332；第322章 https://czbooks.net/n/s6j126/s6fn6nfa?chapterNumber=333；第323章 https://czbooks.net/n/s6j126/s6fn61kk?chapterNumber=334；第324章 https://czbooks.net/n/s6j126/s6fn64el?chapterNumber=335。第324章完整可見正文已讀完，其「下一章」連結核實為第325章：https://czbooks.net/n/s6j126/s6fndga3?chapterNumber=336（僅核實入口及導覽，不計入本批）。閱讀方式：直接逐章閱讀正文至完整可見結尾，核對章號、頁面完成與下一章導覽；未以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文或劇情摘要。補充限制：作品目錄入口本次回傳404；沿 GitHub 已記錄的第318章正文入口仍可讀，因此本批以可見章節導覽完成。
+
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀317章；下一章從第318章接續。
+- 《大奉打更人》：完整閱讀324章；下一章從第325章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
