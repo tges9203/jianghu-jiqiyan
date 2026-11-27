@@ -84,7 +84,7 @@
 - 合法閱讀來源：縱橫中文網作品頁標示「官方正版」，作者頁列為「賣報小郎君_閱文_10033」；作品頁：https://www.zongheng.com/detail/1379190 。閱讀使用該頁連結的官方章節閱讀器。
 - 本批實際閱讀：依序完整閱讀第12–22章。第12章來源：https://read.zongheng.com/chapter/1379190/89312353.html；第13章來源：https://read.zongheng.com/chapter/1379190/89312387.html；第14章來源：https://read.zongheng.com/chapter/1379190/89312367.html；第15章來源：https://read.zongheng.com/chapter/1379190/89312996.html；第16章來源：https://read.zongheng.com/chapter/1379190/89312328.html；第17章來源：https://read.zongheng.com/chapter/1379190/89312579.html；第18章來源：https://read.zongheng.com/chapter/1379190/89312445.html；第19章來源：https://read.zongheng.com/chapter/1379190/89312843.html；第20章來源：https://read.zongheng.com/chapter/1379190/89312166.html；第21章來源：https://read.zongheng.com/chapter/1379190/89312888.html；第22章來源：https://read.zongheng.com/chapter/1379190/89312850.html。第13–22章頁面字數為2,598、2,403、2,315、2,163、2,833、2,554、2,310、2,613、2,922、2,415字；均核對完整正文和下一章導覽。
 - 閱讀方式：逐段閱讀官方閱讀器呈現的完整正文，核對章名、字數資訊與下一章導覽；不以摘要代替原文，不繞過付費或存取限制，也未保存原著全文。
-- 進度狀態：截至2026-11-28，完整閱讀第1–152章，共152章；下次從第153章接續。全書研讀尚未完成。
+- 進度狀態：截至2026-11-28，完整閱讀第1–303章，共303章；下次從第304章接續。全書研讀尚未完成。
 
 - 本次續讀（2026-11-25）：依序完整閱讀第23章，官方來源：https://read.zongheng.com/chapter/1379190/89312436.html；閱讀器頁面顯示2,643字，核對完整正文及第24章下一章導覽。閱讀方式仍為逐段閱讀官方閱讀器，不以摘要替代，不繞過付費或存取限制，未保存原著全文。
 
@@ -142,12 +142,14 @@
 - 本次續讀（2026-11-26）：承接第135章，依序完整閱讀第136–145章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器：https://czbooks.net/n/s6j126/；由上一批已核實的第135章「下一章」連結接續，逐章依可見導覽讀至「本章完」，核對標題、章末及下一章連結。章節入口：第136章 https://czbooks.net/n/s6j126/s6j77ifn?chapterNumber=137；第137章 https://czbooks.net/n/s6j126/s6j77if4?chapterNumber=138；第138章 https://czbooks.net/n/s6j126/s6j77il3?chapterNumber=139；第139章 https://czbooks.net/n/s6j126/s6j77il5?chapterNumber=140；第140章 https://czbooks.net/n/s6j126/s6j77ip6?chapterNumber=141；第141章 https://czbooks.net/n/s6j126/s6j77i6n?chapterNumber=142；第142章 https://czbooks.net/n/s6j126/s6j77i6d?chapterNumber=143；第143章 https://czbooks.net/n/s6j126/s6j77i16?chapterNumber=144；第144章 https://czbooks.net/n/s6j126/s6j77i10?chapterNumber=145；第145章 https://czbooks.net/n/s6j126/s6j77iko?chapterNumber=146。第145章讀至章末，頁面下一章導覽核實為第146章（https://czbooks.net/n/s6j126/s6j77iig?chapterNumber=147）。未以摘要或摘錄代替正文，未繞過存取限制，未保存原著全文；本批分析另記於技巧檔且不含劇情摘要。
 
 
-- 本次續讀（2026-11-28）：承接第145章，依序完整閱讀第146–152章，共7個連續正文章節。使用使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/），沿可見「下一章」導覽逐章閱讀，核對章號並讀至每章完整可見結尾「本章完」。第152章後先遇到一則作者總結頁，未計入正文章數；再沿該頁可見「下一章」核實第153章入口。未以摘要、摘錄或搜尋結果代替正文，未繞過存取限制，未保存原著全文；只記錄不含劇情摘要的通用創作觀察。
+- 重讀核對（2026-11-28）：曾重讀第146–152章；這是已記錄章節的核對，不作為累計進度或接續點。使用使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/），沿可見「下一章」導覽逐章閱讀，核對章號並讀至每章完整可見結尾「本章完」。第152章後先遇到一則作者總結頁，未計入正文章數；再沿該頁可見「下一章」核實第153章入口。未以摘要、摘錄或搜尋結果代替正文，未繞過存取限制，未保存原著全文；只記錄不含劇情摘要的通用創作觀察。
 - 逐章來源：第146章 https://czbooks.net/n/s6j126/s6j77iig?chapterNumber=147；第147章 https://czbooks.net/n/s6j126/s6j77ii7?chapterNumber=148；第148章 https://czbooks.net/n/s6j126/s6j77i72?chapterNumber=149；第149章 https://czbooks.net/n/s6j126/s6j77i7m?chapterNumber=150；第150章 https://czbooks.net/n/s6j126/s6j77imo?chapterNumber=151；第151章 https://czbooks.net/n/s6j126/s6j77im8?chapterNumber=152；第152章 https://czbooks.net/n/s6j126/s6j77i81?chapterNumber=153。第152章後經作者總結頁確認下一正文章節為第153章：https://czbooks.net/n/s6j126/s6j77i5m?chapterNumber=155。
+- 本次續讀（2026-11-28）：依 GitHub main 最新累計紀錄，從第296章後接續，完整閱讀第297–303章，共7個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）；依可見「下一章」導覽逐章前進，核對章號與完整可見正文結尾「本章完」，並確認下一章連結。逐章來源：第297章 https://czbooks.net/n/s6j126/s6janl43?chapterNumber=307；第298章 https://czbooks.net/n/s6j126/s6jan513?chapterNumber=308；第299章 https://czbooks.net/n/s6j126/s6jagn3a?chapterNumber=309；第300章 https://czbooks.net/n/s6j126/s6jagd80?chapterNumber=310；第301章 https://czbooks.net/n/s6j126/s6jag508?chapterNumber=311；第302章 https://czbooks.net/n/s6j126/s6ja2l6k?chapterNumber=312；第303章 https://czbooks.net/n/s6j126/s6jab2oh?chapterNumber=313。第303章後的可見下一章入口已核實為第304章：https://czbooks.net/n/s6j126/s6jab69p?chapterNumber=314；只確認章號、頁面入口及下一章導覽，不計入本批閱讀。閱讀方式：直接閱讀每章完整可見正文至章末，逐章核對章號、頁面完成及「下一章」導覽；未以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文或劇情摘要。累計完整閱讀至第303章，下一章從第304章接續。
+
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀296章；下一章從第297章接續。
+- 《大奉打更人》：完整閱讀303章；下一章從第304章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
