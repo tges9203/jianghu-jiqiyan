@@ -144,7 +144,7 @@
 ## 累計進度
 
 - 《神域囚徒！》：累計完整閱讀334章（已核實連續範圍：第1–47章、第78–364章；第48–77章尚無已核實紀錄）；最後完整閱讀至第364章，下一章從第365章接續。
-- 《大奉打更人》：完整閱讀275章；下一章從第276章接續。
+- 《大奉打更人》：完整閱讀276章；下一章從第277章接續。
 - 兩部作品均未完成全本研讀。不得以部分章節或簡介宣稱讀完全書。
 
 
@@ -372,4 +372,4 @@
 - 441〈他沒打算說實話〉https://www.oop.tw/areada/a32376912a/a1391357a.html
 閱讀方式：沿 OOP 閱讀器「下一頁」讀完每章全部可見頁面，再依「下一章」連續閱讀；逐章核對標題及分頁銜接。第441章的下一章連結已核實為第442章〈【中級火蛟島副本臨時上線】〉（https://www.oop.tw/areada/a32376912a/a1391358a.html），僅確認標題與連結、不計入本批。未以目錄或摘要代替正文，未保存原著全文、引文或劇情摘要。累計完整閱讀至第441章（第1–47章、第78–441章），第48–77章仍未核實，下一章從第442章接續。
 
-- 本次續讀（2026-11-27）：承接第265章，依序完整閱讀第266–275章，共10個連續正文章節。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）；依可見「下一章」導覽逐章讀至各章「本章完」，核對章號、正文結尾與導覽。逐章入口：第266章 https://czbooks.net/n/s6j126/s6jem8eo?chapterNumber=273；第267章 https://czbooks.net/n/s6j126/s6jeme1i?chapterNumber=274；第268章 https://czbooks.net/n/s6j126/s6je89bd?chapterNumber=275；第269章 https://czbooks.net/n/s6j126/s6je86n8?chapterNumber=276；第270章 https://czbooks.net/n/s6j126/s6je81d7?chapterNumber=277；第271章 https://czbooks.net/n/s6j126/s6je80j5?chapterNumber=278；第272章 https://czbooks.net/n/s6j126/s6je5plf?chapterNumber=279；第273章 https://czbooks.net/n/s6j126/s6je5dgj?chapterNumber=280；第274章 https://czbooks.net/n/s6j126/s6je5mfn?chapterNumber=281；第275章 https://czbooks.net/n/s6j126/s6jeeng6?chapterNumber=282。第275章後先遇到一則作者附頁，未計入正文章數，依可見導覽續行；下一個正文章節入口已核實為第276章（https://czbooks.net/n/s6j126/s6jeenc6?chapterNumber=283），只記作接續入口。閱讀方式為逐章閱讀完整可見正文並核對章末及下一章導覽，未以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文、引文或劇情摘要；僅記錄通用創作分析。累計完整閱讀至第275章，下一章從第276章接續。
+- 本次續讀（2026-11-27）：原定接續第265章閱讀十章第266–275章；但沿可見章末導覽核對連續入口時，實際也完整讀取了第276章，故本次可核實的實際全文閱讀範圍為第266–276章（11章），不將其記作十章完成。來源為使用者確認可讀的小說狂人（czbooks.net）閱讀器（https://czbooks.net/n/s6j126/）；依可見「下一章」導覽逐章讀至各章「本章完」，核對章號、正文結尾與導覽。第266–275章入口：第266章 https://czbooks.net/n/s6j126/s6jem8eo?chapterNumber=273；第267章 https://czbooks.net/n/s6j126/s6jeme1i?chapterNumber=274；第268章 https://czbooks.net/n/s6j126/s6je89bd?chapterNumber=275；第269章 https://czbooks.net/n/s6j126/s6je86n8?chapterNumber=276；第270章 https://czbooks.net/n/s6j126/s6je81d7?chapterNumber=277；第271章 https://czbooks.net/n/s6j126/s6je80j5?chapterNumber=278；第272章 https://czbooks.net/n/s6j126/s6je5plf?chapterNumber=279；第273章 https://czbooks.net/n/s6j126/s6je5dgj?chapterNumber=280；第274章 https://czbooks.net/n/s6j126/s6je5mfn?chapterNumber=281；第275章 https://czbooks.net/n/s6j126/s6jeeng6?chapterNumber=282。第275章後先遇到一則作者附頁，未計入正文章數，依可見導覽續行；第276章完整正文入口：https://czbooks.net/n/s6j126/s6jeenc6?chapterNumber=283。第276章後的章末導覽已核實指向第277章（https://czbooks.net/n/s6j126/s6jeeki2?chapterNumber=285）；僅記錄接續入口。閱讀方式為逐章閱讀完整可見正文並核對章末及下一章導覽，未以摘要、摘錄或搜尋結果替代，未繞過存取限制，未保存原著全文、引文或劇情摘要；僅記錄通用創作分析。累計完整閱讀至第276章，下一章從第277章接續。
